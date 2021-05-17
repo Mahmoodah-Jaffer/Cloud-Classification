@@ -1,0 +1,4 @@
+When running programme and to send output to file use "make run >> outputfile.txt"
+Enter input file name when prompted
+[I've added a textfile gitlog and a screenshot of the latest ones. When I tried to upload the .git folder my virtualbox crashed because the file was very big]
+

@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"<Unnamed>","l":"CloudClassSeq"},{"p":"<Unnamed>","l":"CloudData"},{"p":"<Unnamed>","l":"ParallelAvg"},{"p":"<Unnamed>","l":"ParallelClassify"},{"p":"<Unnamed>","l":"RunCloudClass"},{"p":"<Unnamed>","l":"Vector"}]

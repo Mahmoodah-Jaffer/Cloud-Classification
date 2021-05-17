@@ -1,0 +1,9 @@
+df6e475 added documentation to methods
+27d1ffd Completed Parallel Classify Program
+4bb67fa Completed the parallel prevailing wind.
+58b9963 Calls garbage collector before timing starts
+07d0d3a Added documentation to CloudData.java and Vector.java files
+6078677 Added documentation to CloudClassSeq.java
+62d8fde Completed Sequential Program. Began Parallel program for prevailing wind
+c2c3792 Fixed bugs in seqeuential code
+98ead89 Sequential part done - fix some bugs
